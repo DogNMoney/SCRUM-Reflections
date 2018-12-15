@@ -1,0 +1,4 @@
+Czym jest TDD?
+
+TDD - metoda wytwarzania oprogramowania, gdzie najpierw pisze siê testy dla funkcjonalnoœci, nastêpnie oprogramowuje siê funkcjonalnoœæ,
+która powinna przejœæ testy a na koñcu optymalizuje siê rozwi¹zanie, ¿eby spe³nia³o wymagane standardy.
