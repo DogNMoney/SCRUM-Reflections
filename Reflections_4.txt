@@ -1,0 +1,4 @@
+Ró¿nica miêdzy SCRUM a Kanban
+
+Scrum zak³ada pracê w sprintach nie trwaj¹c¹ d³u¿ej ni¿ 4 tygodnie, natomiast kanban dzieli proces
+na etapy miêdzy, którymi przechodzi dana funkcjonalnoœæ.
